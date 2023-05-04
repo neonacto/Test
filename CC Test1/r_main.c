@@ -77,6 +77,9 @@ void R_MAIN_UserInit(void)
 {
     /* Start user code. Do not edit comment generated here */
     EI();
+    EI();
+    EI();
+    EI();
     /* End user code. Do not edit comment generated here */
 }
 
